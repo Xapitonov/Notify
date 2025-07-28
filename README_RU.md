@@ -17,10 +17,11 @@
   </br>
   </br>
   <a href="https://github.com/aritra-tech/Notify/actions">
-    <img alt="Build" src="https://img.shields.io/github/actions/workflow/status/aritra-tech/notify/ci_build.yml?label=Сборка&style=for-the-badge"/></a>
-  <img alt="GitHub commits since tagged version (branch)" src="https://img.shields.io/github/commits-since/aritra-tech/Notify/v1.0?color=palegreen&label=Коммиты&style=for-the-badge">
+  <a href="https://github.com/aritra-tech/Notify/actions">
+    <img alt="Build" src="https://img.shields.io/github/actions/workflow/status/aritra-tech/notify/ci_build.yml?label=Build&style=for-the-badge"/></a>
+  <img alt="GitHub commits since tagged version (branch)" src="https://img.shields.io/github/commits-since/aritra-tech/Notify/v1.0?color=palegreen&label=Commits&style=for-the-badge">
   <a href="https://github.com/aritra-tech/Notify/stargazers"><img src="https://img.shields.io/github/stars/aritra-tech/Notify?color=ffff00&style=for-the-badge"/></a>
-  <a href="https://hits.sh/github.com/aritra-tech/Notify/"><img alt="Просмотры" src="https://hits.sh/github.com/aritra-tech/Notify.svg?style=for-the-badge&label=Просмотры&extraCount=10&color=54856b"/></a>
+  <a href="https://hits.sh/github.com/aritra-tech/Notify/"><img alt="Hits" src="https://hits.sh/github.com/aritra-tech/Notify.svg?style=for-the-badge&label=Views&extraCount=10&color=54856b"/></a>
     </br>
   <a href="https://github.com/aritra-tech/Notify/releases"><img src="https://img.shields.io/github/downloads/aritra-tech/notify/total?color=orange&style=for-the-badge"/></a>
   <img alt="Размер кода в байтах" src="https://img.shields.io/github/languages/code-size/aritra-tech/Notify?style=for-the-badge">
