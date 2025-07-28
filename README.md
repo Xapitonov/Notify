@@ -1,3 +1,5 @@
+[English](README.md) | [Русский](README_RU.md)
+
 <div align="center">
 </br>
 <img src="art/logo_notify.svg" width="200" />
